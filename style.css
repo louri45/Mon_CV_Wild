@@ -1,0 +1,65 @@
+body
+{
+	background-color: rgb(104, 187, 285);
+	
+}
+
+header
+{
+	text-align: center;
+	font-size: 40px;
+	background-color: #77c3e4;
+}
+
+#container
+{
+	background-color: #77c3e4;
+padding-top: 1%;
+padding-left: 1%;
+}
+
+#container #right-box
+{
+	padding-top: 0.5%;
+}
+
+
+#left-box
+{
+	float: left;
+	background-color: rgb(9, 30, 45);
+	color: white;
+	width: 25%;
+	margin-right: 10px;
+	padding-right: 10px;
+}
+
+#right-box
+{
+	background-color: rgb(9, 30, 45);
+color: white;
+margin-right: 1%;
+margin-left: 27%;
+padding-right: 10px;
+padding-left: 10px;
+padding-bottom: 2px;
+}
+
+#experience-box
+{
+	background-color: white;
+	color: black;
+}
+
+#studies-box
+{
+	background-color: white;
+	color: black;
+}
+
+h2
+{
+	text-decoration: underline;
+}
+
+
